@@ -1,4 +1,6 @@
-## Hi, I'm Kateryna :panda_face:
+## Hi, I'm Kateryna 👩‍💻
+
+📄 Check out my CV — deployed and ready [here](https://katiadobra.github.io/cv/)
 
 *Creative, but within reason. I like clean design, readable code, and not being pinged on Slack at 10pm.*
 *Experienced in frontend development, surviving open offices, and translating abstract ideas into functioning pixels*
@@ -16,7 +18,5 @@
 **Grumpy Anxious Planner** — A companion for keeping your life (barely) upright.  
 **GitHub CV** — you’re literally reading it. Updated, against all odds.
 
-> _“If it compiles, ships, and doesn’t crash — it’s probably fine.”_
-
-
-
+                      
+                > _“If it compiles, ships, and doesn’t crash — it’s probably fine.”_
