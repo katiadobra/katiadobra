@@ -16,6 +16,7 @@
 
 **Grumpy Anxious Planner** — A companion for keeping your life (barely) upright.  
 **GitHub CV** — you’re literally reading it. Updated, against all odds.
+**Daily Fact Game** — Truth? Lie? Something in between. A trivia multilingual game. 
 
                       
                 > _“If it compiles, ships, and doesn’t crash — it’s probably fine.”_
