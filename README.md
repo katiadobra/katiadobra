@@ -22,4 +22,4 @@
 <br>
 
                       
-                > _“If it compiles, ships, and doesn’t crash — it’s probably fine.”_
+                > _“The frontend engineer you’ve been looking for.”_
